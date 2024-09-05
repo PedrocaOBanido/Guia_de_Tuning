@@ -7,7 +7,7 @@ let listaCarros = [
         origem : "Japão",
         descricao : "O Civic é um dos modelos mais icônicos e populares da Honda, conhecido por sua confiabilidade, economia de combustível e design atemporal. Desde seu lançamento, o Civic conquistou uma legião de fãs ao redor do mundo, e sua versatilidade o tornou uma base popular para modificações."
     },{
-        fabricante : "General Motors",
+        fabricante : "Chevrolet",
         modelo : "Opala",
         origem : "Brasil",
         descricao : "O Opala é mais do que apenas um carro, ele é um símbolo da indústria automobilística brasileira. Produzido pela Chevrolet entre 1968 e 1992, o Opala conquistou o coração dos brasileiros por sua robustez, design clássico e desempenho."
