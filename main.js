@@ -1,1 +1,1 @@
-console.log("Olá, Pedroca");
+console.log(listaCarros[2].descricao);
