@@ -20,6 +20,6 @@ let listaCarros = [
         fabricante : "Fiat",
         modelo : "Uno",
         origem : "Europa",
-        descricao : "O Fiat Uno é, sem dúvida, um dos carros mais icônicos da história automobilística brasileira. Lançado em 1984, ele rapidamente conquistou o coração dos brasileiros por sua simplicidade, robustez e economia. Mas como um carro popular se tornou uma base tão popular para modificações? Vamos explorar a história e os motivos por trás desse sucesso."
+        descricao : "O Fiat Uno é, sem dúvida, um dos carros mais icônicos da história automobilística brasileira. Lançado em 1984, ele rapidamente conquistou o coração dos brasileiros por sua simplicidade, robustez e economia."
     }
 ];

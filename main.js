@@ -14,8 +14,5 @@ function pesquisar() {
         `;
     }
 
-
     section.innerHTML = resultados;    
 }
-
-
