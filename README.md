@@ -1,4 +1,4 @@
-﻿# Guia de Tuning para Iniciantes: Um Projeto Pessoal com Google Gemini
+﻿# Guia de Tuning para Iniciantes: Imersão Dev com Google Gemini
 
 **Sobre o projeto**
 
