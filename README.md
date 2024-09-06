@@ -1,2 +1,21 @@
-﻿# ImersaoDevComGoogleGemini
-Olá, meu nome é Pedro Ernesto. Atualmente sou estudante de ADS na Estácio e de Engenharia Mecânica na UFAM. Decidi mudar de área, pois com um contato mais aprofundado com a programação, descobri a minha área, e aprofundar nos estudos, logo serei aluno de Engenharia de Software, porém tbm pretendo finalizar o curso de ADS. Esse projeto foi desenvolvido ao longo da imersão dev, onde eu não tinha muita proeficiência com front-end (ainda não é lá essas coisas, mas com certeza está melhor do que quando comecei). Tenho muito interesse pela área de preparação automotiva, por isso escolhi que o meu projeto seria um "Guia" de tuning, bem básica, apresentando algumas plataformas.
+﻿# Guia de Tuning para Iniciantes: Um Projeto Pessoal com Google Gemini
+
+**Sobre o projeto**
+
+Olá! Sou o Pedro Ernesto, estudante de ADS e Engenharia Mecânica (futuramente de Software) com paixão por carros e programação. Este meu primeiro projeto nasceu da minha vontade de criar um guia básico de tuning para iniciantes, utilizando as tecnologias que estou aprendendo.
+
+**Funcionalidades:**
+
+* **Base de dados:** Informações sobre 5 modelos clássicos (Civic, Chevette, Opala, Gol, Uno).
+* **Plataformas:** Lista de plataformas populares para tuning.
+
+**Tecnologias:**
+
+* **Frontend:** HTML, CSS, JavaScript (Vanilla)
+* **Inteligência artificial:** Google Gemini (para auxiliar na pesquisa e geração de conteúdo)
+
+**Próximos passos:**
+
+* **Expansão da base de dados:** Adicionar mais modelos e informações detalhadas sobre cada um.
+* **Personalização:** Permitir que os usuários criem seus próprios perfis de carros.
+* **Comunidade:** Criar um fórum para discussão e troca de experiências.
