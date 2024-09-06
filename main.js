@@ -7,12 +7,15 @@ function pesquisar() {
         resultados += `
             <div class="item-resultado">
                     <h2>
-                        <a href="#" target="_blank">${listObject.fabricante} ${listObject.modelo}</a>
+                        <a href="${listObject.link}" target="_blank">${listObject.fabricante} ${listObject.modelo}</a>
                     </h2>
                     <p class="descricao-meta">${listObject.descricao}</p>
             </div>
         `;
     }
+
+    
+
 
     section.innerHTML = resultados;    
 }
